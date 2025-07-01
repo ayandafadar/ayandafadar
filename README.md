@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi, I'm Ayan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Student | Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayandafadar&label=Profile%20views&color=0e75b6&style=flat" alt="ayandafadar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayandafadar" alt="ayandafadar" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [ayandafadar.github.io](ayandafadar.github.io)
 
