@@ -13,9 +13,7 @@
 - 🚀 Full Stack Developer with expertise in **front-end** and **back-end** technologies  
 - 🛠️ Skilled in: **JavaScript**, **React**, **Node.js**, **Express**, **MongoDB**, **SQL**  
 - 📦 Passionate about building **scalable** and **efficient** web applications  
-- 🧠 Strong problem-solver with a **keen eye for detail**  
 - 🤝 Love collaborating with cross-functional teams  
-- 🔄 Committed to **continuous learning** and professional growth  
 - 🎯 Focused on delivering clean, maintainable code that improves user experience
 
 ---
