@@ -1,10 +1,12 @@
 
-<h1 align="center">Hi, I'm Ayan</h1>
-<h3 align="center">Computer Science Student | Full stack developer</h3>
+<h1 align="left">Hi, I'm Ayan</h1>
+<h3 align="left">Computer Science Student | Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayandafadar&label=Profile%20views&color=0e75b6&style=flat" alt="ayandafadar" /> </p>
 
 - 🌱 Currently learning **DevOps**
+
+- 🔭 Looking to collaborate on open-source projects.
 
 - 👨‍💻 All of my projects are available at [ayandafadar.github.io](ayandafadar.github.io)
 
