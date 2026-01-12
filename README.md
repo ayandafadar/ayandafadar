@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayandafadar&label=Profile%20views&color=0e75b6&style=flat" alt="ayandafadar" />
 </p>
 
-- 🌱 Currently learning **Cloud**  
+- 🌱 Currently learning **DevOps**  
 - 🔭 Looking to collaborate on open-source projects  
 - 👨‍💻 All of my projects are available at [ayandafadar.github.io](https://ayandafadar.github.io)  
 - 📫 How to reach me **technoayan55@gmail.com**
