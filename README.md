@@ -56,16 +56,17 @@
 
   <p>
     <strong>Databases</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis" alt="Databases"/>
   </p>
 
   <p>
     <strong>Cloud & DevOps</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=linux,git,githubactions,docker,aws,gcp" alt="Cloud & DevOps"/>
+    <img src="https://skillicons.dev/icons?i=linux,git,githubactions,docker,aws,gcp,azure" alt="Cloud & DevOps"/>
   </p>
  
 
 </div>
+
 
 
 
