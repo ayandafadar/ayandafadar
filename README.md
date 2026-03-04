@@ -34,8 +34,8 @@
 ### About Me
 - 🌱 Currently learning **DevOps**
 - 🔭 Looking to collaborate on **open-source projects**
-- 🎯 Actively seeking **internships and entry-level software engineering roles**  
-- 👨‍💻 Portfolio: **[ayandafadar.github.io](https://ayandafadar.github.io)**
+- 🎯 Actively seeking **Internship, and freelance opportunities**  
+- 👨‍💻 Portfolio: **[ayandafadar.tech](https://ayandafadar.tech)**
 - 📫 Reach me at **technoayan55@gmail.com**
 
 
@@ -46,12 +46,12 @@
 
   <p>
     <strong>Languages</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bash" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,bash" alt="Languages"/>
   </p>
 
   <p>
     <strong>Frameworks & Libraries</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,tensorflow" alt="Frameworks & Libraries"/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs,tensorflow" alt="Frameworks & Libraries"/>
   </p>
 
   <p>
@@ -66,7 +66,6 @@
  
 
 </div>
-
 
 
 
