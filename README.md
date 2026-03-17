@@ -54,7 +54,7 @@
 
 <p>
 <strong>Databases</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis" />
 </p>
 
 <p>
