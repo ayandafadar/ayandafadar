@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Hi, I'm Ayan </h1>
-<h3><h3>Software Engineer · Full Stack · ML · Cloud</h3></h3>
+<h1>Hi, I'm Ayan</h1>
+<h3>Software Engineer · Full Stack · ML · Cloud</h3>
 
 <p>
   <a href="https://twitter.com/ayandafadar01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" /></a>
@@ -58,10 +58,10 @@ contact:    <a href="mailto:technoayan55@gmail.com">technoayan55@gmail.com</a>
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-chi-eight-56.vercel.app/api?username=ayandafadar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats-chi-eight-56.vercel.app/api/top-langs/?username=ayandafadar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-chi-eight-56.vercel.app/api?username=ayandafadar&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-chi-eight-56.vercel.app/api/top-langs/?username=ayandafadar&layout=compact&theme=dark&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayandafadar&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayandafadar&theme=dark&hide_border=true" width="48%" />
 </div>
