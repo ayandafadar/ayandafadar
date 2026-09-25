@@ -37,7 +37,7 @@ contact:    <a href="mailto:technoayan55@gmail.com">technoayan55@gmail.com</a>
 <table width="100%">
 <tr>
 <td width="20%"><strong>Languages</strong></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,java,python,ts,go, bash" /></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,java,python,ts,go,bash" /></td>
 </tr>
 <tr>
 <td><strong>Frameworks</strong></td>
